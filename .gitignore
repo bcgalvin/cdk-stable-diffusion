@@ -49,3 +49,12 @@ junit.xml
 .jsii
 tsconfig.json
 !/API.md
+test/integ/.tmp
+test/integ/default.integ.snapshot/asset.*
+test/integ/default.integ.snapshot/**/asset.*
+test/integ/default.integ.snapshot/cdk.out
+test/integ/default.integ.snapshot/**/cdk.out
+test/integ/default.integ.snapshot/manifest.json
+test/integ/default.integ.snapshot/**/manifest.json
+test/integ/default.integ.snapshot/tree.json
+test/integ/default.integ.snapshot/**/tree.json

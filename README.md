@@ -1,1 +1,1 @@
-# replace this
+# CDK Stable Diffusion
